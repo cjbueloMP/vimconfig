@@ -9,6 +9,11 @@ Plug 'ervandew/supertab'
 
 call plug#end()
 
+highlight Search ctermbg=Red
+
+
+set hlsearch
+set incsearch
 set shortmess+=c
 set belloff+=ctrlg
 
