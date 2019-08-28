@@ -11,7 +11,7 @@ call plug#end()
 
 highlight Search ctermbg=Red
 
-
+colo seoul256
 set hlsearch
 set incsearch
 set shortmess+=c
