@@ -11,6 +11,11 @@ call plug#end()
 
 highlight Search ctermbg=Red
 
+filetype plugin indent on
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 colo seoul256
 set hlsearch
 set incsearch
