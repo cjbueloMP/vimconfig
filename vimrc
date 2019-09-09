@@ -6,6 +6,7 @@ Plug 'junegunn/seoul256.vim'
 Plug 'lifepillar/vim-mucomplete'
 Plug 'davidhalter/jedi-vim'
 Plug 'ervandew/supertab'
+Plug 'raingo/vim-matlab'
 
 call plug#end()
 
