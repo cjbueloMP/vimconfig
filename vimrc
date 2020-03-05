@@ -7,6 +7,7 @@ Plug 'lifepillar/vim-mucomplete'
 Plug 'davidhalter/jedi-vim'
 Plug 'ervandew/supertab'
 Plug 'raingo/vim-matlab'
+Plug 'Yggdroot/indentLine'
 
 call plug#end()
 
