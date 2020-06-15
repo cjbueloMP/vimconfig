@@ -18,7 +18,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-colo seoul256
+silent! colo seoul256
 set hlsearch
 set incsearch
 set shortmess+=c
