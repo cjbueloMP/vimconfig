@@ -26,6 +26,7 @@ set belloff+=ctrlg
 
 set completeopt-=preview
 set completeopt+=longest,menuone,noselect
+let g:mucomplete#enable_auto_at_startup = 0
 let g:jedi#popup_on_dot = 0  " It may be 1 as well
 
 
