@@ -3,8 +3,6 @@ call plug#begin('~/.vim/plugged')
 Plug 'ekalinin/Dockerfile.vim'
 Plug 'tpope/vim-sensible'
 Plug 'junegunn/seoul256.vim'
-Plug 'lifepillar/vim-mucomplete'
-Plug 'davidhalter/jedi-vim'
 Plug 'ervandew/supertab'
 Plug 'raingo/vim-matlab'
 Plug 'Yggdroot/indentLine'
